@@ -1,4 +1,4 @@
-##- 👋 Hi, I'm Areeba Fatima
+- 👋 Hi, I'm Areeba Fatima
 - 🌱 I'm currently focusing on Web Development, React Native, Python programming & logic building.
 - 💡 Interests:
   - Web Development (Front-End)
