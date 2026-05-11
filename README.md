@@ -1,6 +1,15 @@
-👋 Hi, I'm Areeba Fatima! I'm a passionate beginner exploring the world of programming and web development.
-🌱 I'm Currently Learning HTML, CSS, C++, also learning Python diving into logic.
-💡 I'm interested in Web Development and Python Projects.
-🤝 Looking to Collaborate On beginner friendly web projects, learning groups, or study partners.
-📫 How to Reach me: Email; areebafatima10a@gmail.com
-⚡ Fun Fact: I'm a new coder who believes that small steps lead to big success.
+👋 Hi  I'm Areeba Fatima
+🎓 CS Student @ University of the Punjab  
+💻 Web & Mobile App Developer  
+🚀 I am passionate about building real-world applications using modern technologies.  
+Currently focusing on Web Development, React Native, and Python.
+🛠 Skills
+- HTML, CSS, JavaScript  
+- React Native  
+- Python (Basic)  
+- Git & GitHub  
+📱 Projects
+- Login Form (HTML/CSS/JS)  
+- To-Do App  
+- React Native App (In Progress)
+🎯 Goal is to become a professional Full Stack & Mobile App Developer 🚀
